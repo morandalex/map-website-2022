@@ -211,5 +211,22 @@
     "website": "http://www.ethna.rocks",
     "partnership": "mego.tickets, YOMI",
     "multisig": ""
+  },
+  {
+    "città": "Bologna",
+    "regione": "emilia-romagna",
+    "nome": "ethbologna",
+    "membri": 10,
+    "meet": "In presenza e online",
+    "format": "Ricerca e Sviluppo - Educazione",
+    "focus": "Public Goods & Registries - Smart Contract Programming - NFTs - Legal, Adoption, Regulators",
+    "progetti": "",
+    "twitter": "",
+    "github": "",
+    "telegram": "https://t.me/ethbologna",
+    "discord": "",
+    "website": "ethbologna.com",
+    "partnership": "",
+    "multisig": ""
   }
 ]
